@@ -7,7 +7,7 @@
 This repository presents a detailed analysis of vehicle data from the city of Barcelona, with a special focus on comparing the performance of the Pandas and Polar libraries. Beyond just showcasing their capabilities, this project benchmarks the execution time for various operations, highlighting the performance differences and efficiencies of each library.
 
 <p align="center">
-	<img src="https://images.datacamp.com/image/upload/v1686564840/datarhys_an_absurdist_oil_painting_of_a_cyborg_panda_and_a_cybo_c7deba5e_79f3_498a_ada9_381d6fe0b77a_b943fa043f.png" alt="400" width="600"/>
+	<img src="https://images.datacamp.com/image/upload/v1686564840/datarhys_an_absurdist_oil_painting_of_a_cyborg_panda_and_a_cybo_c7deba5e_79f3_498a_ada9_381d6fe0b77a_b943fa043f.png" alt="200" width="400"/>
 </p>
 
 ## Data Overview
